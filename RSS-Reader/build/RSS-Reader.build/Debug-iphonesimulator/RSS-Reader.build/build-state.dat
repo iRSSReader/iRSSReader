@@ -1,0 +1,295 @@
+TRSS-Reader
+v7
+r0
+t300228606.225247
+cCheck dependencies
+cProcessInfoPlistFile /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/Info.plist RSS_Reader-Info.plist
+cCompileXIB /Users/satty/Documents/coding/mobile/RSS-Reader/MainWindow.xib
+cCompileXIB /Users/satty/Documents/coding/mobile/RSS-Reader/DetailView.xib
+cProcessPCH /var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch.gch RSS_Reader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/main.o /Users/satty/Documents/coding/mobile/RSS-Reader/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RSS_ReaderAppDelegate.o /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RootViewController.o /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/DetailViewController.o /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader normal i386
+cGenerateDSYMFile /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app.dSYM /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader
+cTouch /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
+c000000004BD1CFC10000000000001A1A
+t1272041409
+s6682
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.h
+c000000004C34E8590000000000000262
+t1278535769
+s610
+i<UIKit/UIKit.h>
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m
+c000000004C34E87A0000000000000DC3
+t1278535802
+s3523
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.h
+c000000004C34D545000000000000031A
+t1278530885
+s794
+i<UIKit/UIKit.h>
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.m
+c000000004C34D54500000000000007CD
+t1278530885
+s1997
+i"RSS_ReaderAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.h
+c000000004C34E5480000000000000192
+t1278534984
+s402
+i<UIKit/UIKit.h>
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m
+c000000004C34E84300000000000010C6
+t1278535747
+s4294
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/DetailView.xib
+c000000004C34D5450000000000005005
+t1278530885
+s20485
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/MainWindow.xib
+c000000004C34D54500000000000069D4
+t1278530885
+s27092
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/RSS_Reader_Prefix.pch
+c000000004C34D5450000000000000146
+t1278530885
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app
+t1278535806
+s238
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app.dSYM
+t1278535806
+s102
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/DetailView.nib
+t1278535630
+s1421
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/Info.plist
+t1278535629
+s810
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/MainWindow.nib
+t1278535630
+s1937
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/PkgInfo
+t1278535629
+s8
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader
+t1278535806
+s27492
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/DetailViewController.o
+t1278535805
+s46416
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RSS-Reader.LinkFileList
+c000000004C34E7CD0000000000000253
+t1278535629
+s595
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RSS_ReaderAppDelegate.o
+t1278535805
+s49348
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RootViewController.o
+t1278535805
+s42672
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/main.o
+t1278535631
+s6320
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/main.m
+c000000004C34D545000000000000016C
+t1278530885
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch.gch
+t1278535631
+s13825936
+
+NRSS_Reader-Info.plist
+c000000004C34D54500000000000004D6
+t1278530885
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300228605#300228605#0(0"0(0#1#0"8618854976#0"0#
+
+CCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/DetailViewController.o /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300228605.815390
+e300228605.960005
+r1
+xCompileC
+xbuild/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/DetailViewController.o
+x/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m300228605#300228605#0(0"0(0#0#78"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m8615844160#2100"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-generated-files.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-own-target-headers.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-all-target-headers.hmap -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-project-headers.hmap -F/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/include -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources/i386 -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources -include /var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch -c /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m -o /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RSS_ReaderAppDelegate.o /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300228605.727444
+e300228605.886709
+r1
+xCompileC
+xbuild/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RSS_ReaderAppDelegate.o
+x/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.m300228605#300228605#0(0"0(0#0#79"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.m8617740512#2102"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-generated-files.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-own-target-headers.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-all-target-headers.hmap -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-project-headers.hmap -F/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/include -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources/i386 -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources -include /var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch -c /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.m -o /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RSS_ReaderAppDelegate.o0#
+
+CCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RootViewController.o /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300228605.728590
+e300228605.815216
+r1
+xCompileC
+xbuild/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RootViewController.o
+x/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300228605#300228605#0(0"0(0#0#76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m8617387744#2096"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-generated-files.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-own-target-headers.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-all-target-headers.hmap -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-project-headers.hmap -F/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/include -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources/i386 -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources -include /var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch -c /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m -o /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/main.o /Users/satty/Documents/coding/mobile/RSS-Reader/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300228431.069214
+e300228431.192685
+r1
+xCompileC
+xbuild/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/main.o
+x/Users/satty/Documents/coding/mobile/RSS-Reader/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/satty/Documents/coding/mobile/RSS-Reader/main.m300228431#300228431#0(0"0(0#0#54"/Users/satty/Documents/coding/mobile/RSS-Reader/main.m8618915200#2060"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-generated-files.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-own-target-headers.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-all-target-headers.hmap -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-project-headers.hmap -F/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/include -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources/i386 -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources -include /var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch -c /Users/satty/Documents/coding/mobile/RSS-Reader/main.m -o /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/satty/Documents/coding/mobile/RSS-Reader/DetailView.xib
+s300228429.855414
+e300228430.324394
+r1
+xCompileXIB
+x/Users/satty/Documents/coding/mobile/RSS-Reader/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib300228429#300228430#0(0"0(0#0#62"/Users/satty/Documents/coding/mobile/RSS-Reader/DetailView.xib8618360832#600"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/DetailView.nib /Users/satty/Documents/coding/mobile/RSS-Reader/DetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/satty/Documents/coding/mobile/RSS-Reader/MainWindow.xib
+s300228429.854746
+e300228430.333915
+r1
+xCompileXIB
+x/Users/satty/Documents/coding/mobile/RSS-Reader/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib300228429#300228430#0(0"0(0#0#62"/Users/satty/Documents/coding/mobile/RSS-Reader/MainWindow.xib8613874848#600"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/MainWindow.nib /Users/satty/Documents/coding/mobile/RSS-Reader/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CGenerateDSYMFile /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app.dSYM /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader
+s300228606.198401
+e300228606.221538
+r1
+xGenerateDSYMFile
+x/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app.dSYM
+x/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/RSS-Reader.app.dSYM build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader300228606#300228606#0(0"0(0#0#101"/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader8617586176#419"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader -o /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app.dSYM0#
+
+CLd /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader normal i386
+s300228605.960105
+e300228606.198254
+r1
+xLd
+x/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader
+xnormal
+xi386
+lSLF07#2@106"Link /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader300228605#300228606#0(0"0(0#0#0"8618970144#960"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator -F/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator -filelist /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RSS-Reader.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader0#
+
+CProcessInfoPlistFile /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/Info.plist RSS_Reader-Info.plist
+s300228429.851087
+e300228429.854666
+r1
+xProcessInfoPlistFile
+x/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/Info.plist
+xRSS_Reader-Info.plist
+lSLF07#2@29"Process RSS_Reader-Info.plist300228429#300228429#0(0"0(0#0#69"/Users/satty/Documents/coding/mobile/RSS-Reader/RSS_Reader-Info.plist8606556096#515"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RSS_Reader-Info.plist -genpkginfo /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/Info.plist0#
+
+CProcessPCH /var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch.gch RSS_Reader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300228430.334036
+e300228431.069107
+r1
+xProcessPCH
+x/var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch.gch
+xRSS_Reader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile RSS_Reader_Prefix.pch300228430#300228431#0(0"0(0#0#69"/Users/satty/Documents/coding/mobile/RSS-Reader/RSS_Reader_Prefix.pch8619245472#1940"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-generated-files.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-own-target-headers.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-all-target-headers.hmap -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-project-headers.hmap -F/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/include -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources/i386 -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources -c /Users/satty/Documents/coding/mobile/RSS-Reader/RSS_Reader_Prefix.pch -o /var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch.gch0#
+
+CTouch /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app
+s300228606.221627
+e300228606.225206
+r1
+xTouch
+x/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app
+lSLF07#2@96"Touch /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app300228606#300228606#0(0"0(0#0#0"8617353632#299"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app0#
+

@@ -1,0 +1,345 @@
+TRSS-Reader
+v7
+r0
+t300228431.322277
+cCheck dependencies
+cProcessInfoPlistFile /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/Info.plist RSS_Reader-Info.plist
+cCompileXIB /Users/satty/Documents/coding/mobile/RSS-Reader/MainWindow.xib
+cCompileXIB /Users/satty/Documents/coding/mobile/RSS-Reader/DetailView.xib
+cProcessPCH /var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch.gch RSS_Reader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/main.o /Users/satty/Documents/coding/mobile/RSS-Reader/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RSS_ReaderAppDelegate.o /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RootViewController.o /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/DetailViewController.o /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
+c000000004BD1CFC10000000000001A1A
+t1272041409
+s6682
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.h
+c000000004C34E5530000000000000382
+t1278534995
+s898
+i<UIKit/UIKit.h>
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m
+c000000004C34E5D30000000000000ED1
+t1278535123
+s3793
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.h
+c000000004C34D545000000000000031A
+t1278530885
+s794
+i<UIKit/UIKit.h>
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.m
+c000000004C34D54500000000000007CD
+t1278530885
+s1997
+i"RSS_ReaderAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.h
+c000000004C34E5480000000000000192
+t1278534984
+s402
+i<UIKit/UIKit.h>
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m
+c000000004C34E5E50000000000001D11
+t1278535141
+s7441
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/DetailView.xib
+c000000004C34D5450000000000005005
+t1278530885
+s20485
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/MainWindow.xib
+c000000004C34D54500000000000069D4
+t1278530885
+s27092
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/RSS_Reader_Prefix.pch
+c000000004C34D5450000000000000146
+t1278530885
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app
+t2
+s0
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app.dSYM
+t2
+s0
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/DetailView.nib
+t1278535630
+s1421
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/Info.plist
+t1278535629
+s810
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/MainWindow.nib
+t1278535630
+s1937
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/PkgInfo
+t1278535629
+s8
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader
+t2
+s0
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/DetailViewController.o
+t1278535631
+s50456
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RSS-Reader.LinkFileList
+c000000004C34E7CD0000000000000253
+t1278535629
+s595
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RSS_ReaderAppDelegate.o
+t1278535631
+s50272
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RootViewController.o
+t2
+s0
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/main.o
+t1278535631
+s6320
+
+N/Users/satty/Documents/coding/mobile/RSS-Reader/main.m
+c000000004C34D545000000000000016C
+t1278530885
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch.gch
+t1278535631
+s13825936
+
+NRSS_Reader-Info.plist
+c000000004C34D54500000000000004D6
+t1278530885
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300228429#300228429#0(0"0(0#1#0"8617376256#0"0#
+
+CCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/DetailViewController.o /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300228431.235136
+e300228431.322199
+r1
+xCompileC
+xbuild/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/DetailViewController.o
+x/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m: In function '-[DetailViewController viewDidAppear:]':
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m:106: warning: 'DetailViewController' may not respond to '-parseXMLFileAtURL:'
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m:106: warning: (Messages without a matching method signature
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m:106: warning: will be assumed to return 'id' and accept
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m:106: warning: '...' as arguments.)
+lSLF07#2@86"Compile /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m300228431#300228431#0(679"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m: In function '-[DetailViewController viewDidAppear:]':/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m:106: warning: 'DetailViewController' may not respond to '-parseXMLFileAtURL:'/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m:106: warning: (Messages without a matching method signature/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m:106: warning: will be assumed to return 'id' and accept/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m:106: warning: '...' as arguments.)2(22@63"'DetailViewController' may not respond to '-parseXMLFileAtURL:'300228431#134#157#0(6@78"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m300227923#106#0#106#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)300228431#291#139#0(6@78"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m300227923#106#0#106#0#0"0(0#0#78"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m8618472192#2100"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-generated-files.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-own-target-headers.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-all-target-headers.hmap -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-project-headers.hmap -F/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/include -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources/i386 -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources -include /var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch -c /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/DetailViewController.m -o /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RSS_ReaderAppDelegate.o /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300228431.070419
+e300228431.235033
+r1
+xCompileC
+xbuild/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RSS_ReaderAppDelegate.o
+x/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.m300228431#300228431#0(0"0(0#0#79"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.m8620429888#2102"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-generated-files.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-own-target-headers.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-all-target-headers.hmap -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-project-headers.hmap -F/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/include -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources/i386 -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources -include /var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch -c /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RSS_ReaderAppDelegate.m -o /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RSS_ReaderAppDelegate.o0#
+
+CCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RootViewController.o /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300228431.192795
+e300228431.265170
+r0
+xCompileC
+xbuild/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RootViewController.o
+x/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController tableView:numberOfRowsInSection:]':
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:65: warning: control reaches end of non-void function
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:80: error: 'stories' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:80: error: (Each undeclared identifier is reported only once
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:80: error: for each function it appears in.)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:80: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController parseXMLFileAtURL:]':
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:156: error: 'stories' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:158: error: 'rssParser' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController parser:didStartElement:namespaceURI:qualifiedName:attributes:]':
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:179: error: 'currentElement' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:181: error: 'item' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:182: error: 'currentTitle' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:183: error: 'currentDate' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:184: error: 'currentSummary' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:185: error: 'currentLink' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController parser:didEndElement:namespaceURI:qualifiedName:]':
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:193: error: 'item' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:193: error: 'currentTitle' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:194: error: 'currentLink' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:195: error: 'currentSummary' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:196: error: 'currentDate' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:197: error: 'stories' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController parser:foundCharacters:]':
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:204: error: 'currentElement' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:205: error: 'currentTitle' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:207: error: 'currentLink' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:209: error: 'currentSummary' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:211: error: 'currentDate' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController parserDidEndDocument:]':
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:216: error: 'activityIndicator' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:219: error: 'stories' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:220: error: 'newsTable' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController dealloc]':
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:225: error: 'currentElement' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:226: error: 'rssParser' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:227: error: 'stories' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:228: error: 'item' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:229: error: 'currentTitle' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:230: error: 'currentDate' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:231: error: 'currentSummary' undeclared (first use in this function)
+o/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:232: error: 'currentLink' undeclared (first use in this function)
+o{standard input}:142:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"
+o{standard input}:142:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:137:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000002$pb"
+o{standard input}:137:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:82:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:82:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:75:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:75:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:72:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:72:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:65:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:65:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:58:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:58:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:54:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:54:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol LC0
+o{standard input}:unknown:Undefined local symbol LC1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+lSLF07#2@84"Compile /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300228431#300228431#0(8428"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController tableView:numberOfRowsInSection:]':/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:65: warning: control reaches end of non-void function/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:80: error: 'stories' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:80: error: (Each undeclared identifier is reported only once/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:80: error: for each function it appears in.)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:80: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController parseXMLFileAtURL:]':/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:156: error: 'stories' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:158: error: 'rssParser' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController parser:didStartElement:namespaceURI:qualifiedName:attributes:]':/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:179: error: 'currentElement' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:181: error: 'item' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:182: error: 'currentTitle' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:183: error: 'currentDate' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:184: error: 'currentSummary' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:185: error: 'currentLink' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController parser:didEndElement:namespaceURI:qualifiedName:]':/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:193: error: 'item' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:193: error: 'currentTitle' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:194: error: 'currentLink' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:195: error: 'currentSummary' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:196: error: 'currentDate' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:197: error: 'stories' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController parser:foundCharacters:]':/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:204: error: 'currentElement' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:205: error: 'currentTitle' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:207: error: 'currentLink' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:209: error: 'currentSummary' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:211: error: 'currentDate' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController parserDidEndDocument:]':/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:216: error: 'activityIndicator' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:219: error: 'stories' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:220: error: 'newsTable' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m: In function '-[RootViewController dealloc]':/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:225: error: 'currentElement' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:226: error: 'rssParser' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:227: error: 'stories' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:228: error: 'item' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:229: error: 'currentTitle' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:230: error: 'currentDate' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:231: error: 'currentSummary' undeclared (first use in this function)/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m:232: error: 'currentLink' undeclared (first use in this function){standard input}:142:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"{standard input}:142:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:137:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000002$pb"{standard input}:137:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:82:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:82:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:75:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:75:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:72:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:72:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:65:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:65:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:58:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:58:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:54:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:54:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol LC0{standard input}:unknown:Undefined local symbol LC1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_333(22@40"Control reaches end of non-void function300228431#148#131#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#65#0#65#0#40"control reaches end of non-void function0(4@49"'stories' undeclared (first use in this function)300228431#427#138#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#80#0#80#0#43"'*' undeclared (first use in this function)0(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)300228431#825#285#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#80#0#80#0#33"'*' is deprecated (declared at *)0(4@49"'stories' undeclared (first use in this function)300228431#1244#139#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#156#0#156#0#43"'*' undeclared (first use in this function)0(4@51"'rssParser' undeclared (first use in this function)300228431#1383#141#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#158#0#158#0#43"'*' undeclared (first use in this function)0(4@56"'currentElement' undeclared (first use in this function)300228431#1701#146#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#179#0#179#0#43"'*' undeclared (first use in this function)0(4@46"'item' undeclared (first use in this function)300228431#1847#136#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#181#0#181#0#43"'*' undeclared (first use in this function)0(4@54"'currentTitle' undeclared (first use in this function)300228431#1983#144#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#182#0#182#0#43"'*' undeclared (first use in this function)0(4@53"'currentDate' undeclared (first use in this function)300228431#2127#143#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#183#0#183#0#43"'*' undeclared (first use in this function)0(4@56"'currentSummary' undeclared (first use in this function)300228431#2270#146#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#184#0#184#0#43"'*' undeclared (first use in this function)0(4@53"'currentLink' undeclared (first use in this function)300228431#2416#143#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#185#0#185#0#43"'*' undeclared (first use in this function)0(4@46"'item' undeclared (first use in this function)300228431#2723#136#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#193#0#193#0#43"'*' undeclared (first use in this function)0(4@54"'currentTitle' undeclared (first use in this function)300228431#2859#144#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#193#0#193#0#43"'*' undeclared (first use in this function)0(4@53"'currentLink' undeclared (first use in this function)300228431#3003#143#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#194#0#194#0#43"'*' undeclared (first use in this function)0(4@56"'currentSummary' undeclared (first use in this function)300228431#3146#146#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#195#0#195#0#43"'*' undeclared (first use in this function)0(4@53"'currentDate' undeclared (first use in this function)300228431#3292#143#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#196#0#196#0#43"'*' undeclared (first use in this function)0(4@49"'stories' undeclared (first use in this function)300228431#3435#139#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#197#0#197#0#43"'*' undeclared (first use in this function)0(4@56"'currentElement' undeclared (first use in this function)300228431#3713#146#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#204#0#204#0#43"'*' undeclared (first use in this function)0(4@54"'currentTitle' undeclared (first use in this function)300228431#3859#144#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#205#0#205#0#43"'*' undeclared (first use in this function)0(4@53"'currentLink' undeclared (first use in this function)300228431#4003#143#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#207#0#207#0#43"'*' undeclared (first use in this function)0(4@56"'currentSummary' undeclared (first use in this function)300228431#4146#146#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#209#0#209#0#43"'*' undeclared (first use in this function)0(4@53"'currentDate' undeclared (first use in this function)300228431#4292#143#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#211#0#211#0#43"'*' undeclared (first use in this function)0(4@59"'activityIndicator' undeclared (first use in this function)300228431#4572#149#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#216#0#216#0#43"'*' undeclared (first use in this function)0(4@49"'stories' undeclared (first use in this function)300228431#4721#139#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#219#0#219#0#43"'*' undeclared (first use in this function)0(4@51"'newsTable' undeclared (first use in this function)300228431#4860#141#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#220#0#220#0#43"'*' undeclared (first use in this function)0(4@56"'currentElement' undeclared (first use in this function)300228431#5124#146#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#225#0#225#0#43"'*' undeclared (first use in this function)0(4@51"'rssParser' undeclared (first use in this function)300228431#5270#141#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#226#0#226#0#43"'*' undeclared (first use in this function)0(4@49"'stories' undeclared (first use in this function)300228431#5411#139#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#227#0#227#0#43"'*' undeclared (first use in this function)0(4@46"'item' undeclared (first use in this function)300228431#5550#136#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#228#0#228#0#43"'*' undeclared (first use in this function)0(4@54"'currentTitle' undeclared (first use in this function)300228431#5686#144#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#229#0#229#0#43"'*' undeclared (first use in this function)0(4@53"'currentDate' undeclared (first use in this function)300228431#5830#143#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#230#0#230#0#43"'*' undeclared (first use in this function)0(4@56"'currentSummary' undeclared (first use in this function)300228431#5973#146#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#231#0#231#0#43"'*' undeclared (first use in this function)0(4@53"'currentLink' undeclared (first use in this function)300228431#6119#143#0(6@76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m300227941#232#0#232#0#43"'*' undeclared (first use in this function)0(0#0#76"/Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m8619588800#2096"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-generated-files.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-own-target-headers.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-all-target-headers.hmap -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-project-headers.hmap -F/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/include -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources/i386 -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources -include /var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch -c /Users/satty/Documents/coding/mobile/RSS-Reader/Classes/RootViewController.m -o /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/RootViewController.o1#
+
+CCompileC build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/main.o /Users/satty/Documents/coding/mobile/RSS-Reader/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300228431.069214
+e300228431.192685
+r1
+xCompileC
+xbuild/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/main.o
+x/Users/satty/Documents/coding/mobile/RSS-Reader/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/satty/Documents/coding/mobile/RSS-Reader/main.m300228431#300228431#0(0"0(0#0#54"/Users/satty/Documents/coding/mobile/RSS-Reader/main.m8618915200#2060"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-generated-files.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-own-target-headers.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-all-target-headers.hmap -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-project-headers.hmap -F/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/include -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources/i386 -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources -include /var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch -c /Users/satty/Documents/coding/mobile/RSS-Reader/main.m -o /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/satty/Documents/coding/mobile/RSS-Reader/DetailView.xib
+s300228429.855414
+e300228430.324394
+r1
+xCompileXIB
+x/Users/satty/Documents/coding/mobile/RSS-Reader/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib300228429#300228430#0(0"0(0#0#62"/Users/satty/Documents/coding/mobile/RSS-Reader/DetailView.xib8618360832#600"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/DetailView.nib /Users/satty/Documents/coding/mobile/RSS-Reader/DetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/satty/Documents/coding/mobile/RSS-Reader/MainWindow.xib
+s300228429.854746
+e300228430.333915
+r1
+xCompileXIB
+x/Users/satty/Documents/coding/mobile/RSS-Reader/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib300228429#300228430#0(0"0(0#0#62"/Users/satty/Documents/coding/mobile/RSS-Reader/MainWindow.xib8613874848#600"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/MainWindow.nib /Users/satty/Documents/coding/mobile/RSS-Reader/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CGenerateDSYMFile /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app.dSYM /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader
+r0
+
+CLd /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/RSS-Reader normal i386
+r0
+
+CProcessInfoPlistFile /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/Info.plist RSS_Reader-Info.plist
+s300228429.851087
+e300228429.854666
+r1
+xProcessInfoPlistFile
+x/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/Info.plist
+xRSS_Reader-Info.plist
+lSLF07#2@29"Process RSS_Reader-Info.plist300228429#300228429#0(0"0(0#0#69"/Users/satty/Documents/coding/mobile/RSS-Reader/RSS_Reader-Info.plist8606556096#515"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RSS_Reader-Info.plist -genpkginfo /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app/Info.plist0#
+
+CProcessPCH /var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch.gch RSS_Reader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300228430.334036
+e300228431.069107
+r1
+xProcessPCH
+x/var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch.gch
+xRSS_Reader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile RSS_Reader_Prefix.pch300228430#300228431#0(0"0(0#0#69"/Users/satty/Documents/coding/mobile/RSS-Reader/RSS_Reader_Prefix.pch8619245472#1940"    cd /Users/satty/Documents/coding/mobile/RSS-Reader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-generated-files.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-own-target-headers.hmap -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-all-target-headers.hmap -iquote /Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/RSS-Reader-project-headers.hmap -F/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/include -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources/i386 -I/Users/satty/Documents/coding/mobile/RSS-Reader/build/RSS-Reader.build/Debug-iphonesimulator/RSS-Reader.build/DerivedSources -c /Users/satty/Documents/coding/mobile/RSS-Reader/RSS_Reader_Prefix.pch -o /var/folders/XO/XOZL2AyfHmSopCbazhydYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Reader_Prefix-beyyafvshaebixeupfuruxjohelf/RSS_Reader_Prefix.pch.gch0#
+
+CTouch /Users/satty/Documents/coding/mobile/RSS-Reader/build/Debug-iphonesimulator/RSS-Reader.app
+r0
+
